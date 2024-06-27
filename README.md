@@ -1,6 +1,6 @@
 # Calculator
 
-A technical exam for Reevo Tech
+A basic calculator with an OOP approach including unit test.
 
 
 
